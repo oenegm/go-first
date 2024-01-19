@@ -1,2 +1,4 @@
 .idea/*
 .idea/sonarlint/*
+.idea/sonarlint/securityhotspotstore/index.pb
+.idea/sonarlint/issuestore/index.pb
